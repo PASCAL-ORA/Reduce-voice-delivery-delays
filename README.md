@@ -41,7 +41,7 @@ npm run dev
 
 ```bash
 pip install websockets google-cloud-speech python-dotenv
-python server.py
+python Google_Audio.py
 ```
 
 ## 📊 성능 평가
