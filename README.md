@@ -38,6 +38,7 @@ npm run dev
 ```
 
 ### ⚙️ 백엔드(Python + Google STT)
+#json 파일 위치 : 서비스 계정 키 파일 경로(google cloud console -> I AM 및 관리자 -> 서비스 계정 -> 키) 다운받아서 사용
 
 ```bash
 pip install websockets google-cloud-speech python-dotenv
